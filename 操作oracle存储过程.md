@@ -1,4 +1,4 @@
-'''Java
+
 package com.markreng.util; 
 
 /** 
